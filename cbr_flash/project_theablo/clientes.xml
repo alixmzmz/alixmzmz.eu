@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<text>
+<title>Selvatgi. Barcelona</title>
+<description>Moda Femenina. Fabricante</description> <item Action ="getURL" Target="http://www.selvatgi.es">www.selvatgi.es</item>
+<br />
+<title>MBA Oficinas. Tudela/Navarra</title>
+<description>Distribuidor Mobiliario y Material de Oficina</description>
+<item Action ="getURL" Target="http://www.mbaoficinas.es">www.mbaoficinas.es</item>
+<br />
+<title>Piadineria Pulcinella. Barcelona</title>
+<description>Piadinas para llevar</description>
+<item Action ="getURL" Target="http://www.pulcinella.es">www.pulcinella.es</item>
+<br />
+<title>Nsaio. Santiago de Compostela</title>
+<description>Red de locales para nsaio de la junta de Galicia</description>
+<item Action ="getURL" Target="http://www.nsaio.org">www.nsaio.org</item>
+<br />
+<title>ESADE. Universitat Ramon LLull. Barcelona</title>
+<description>Escuela de negocios</description>
+<item Action ="getURL" Target="http://www.esade.edu">www.esade.edu</item>
+<br />
+<title>Custo Barcelona</title>
+<description>Moda. Fabricante</description>
+<item Action ="getURL" Target="http://www.custo-barcelona.com">www.custo-barcelona.com</item>
+<br />
+<title>Geno Stylo. Baracaldo/ Vizcaya</title>
+<description>Moda Femenina. Distribuidor</description>
+<br />
+<title>SerhogarSystems. Madrid</title>
+<description>Proveedor de servicios para el hogar</description>
+<item Action ="getURL" Target="http://www.serhogarsystem.com">www.serhogarsystem.com</item>
+<br />
+<title>Nomada Salud. Venezuela</title>
+<description>Unidades moviles asistenciales</description>
+<br />
+<title>Futurcret. Barcelona</title>
+<description>Fabricante microcemento</description>
+<item Action ="getURL" Target="http://www.futurcret.com">www.futurcret.com</item>
+<br />
+<title>CIDEU. Centro Iberoamericano de Desarrollo Estrategico Urbano. Barcelona</title>
+<description>Red de ciudades</description>
+<item Action ="getURL" Target="http://www.cideu.org">www.cideu.org</item>
+
+
+
+
+<!--
+<item Name="Item three" Action ="getURL" Target="http://www.flashden.net"></item>
+-->

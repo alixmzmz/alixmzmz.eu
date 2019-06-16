@@ -1,0 +1,14 @@
+/* mobile styles */
+ #wrap { width:310px; margin-left:auto; margin-right:auto; overflow:auto; }
+ #header-widget { display:none; }
+ #nav { overflow:auto; height:auto; padding:3%; }
+  
+ .single-post .type-post { width:310px;}
+ .single-post .type-post .gridly-copy { width:290px;}
+ .single-post .type-post img { width:290px; height:inherit;}
+ 
+ .type-page { width:310px;}
+ .type-page .gridly-copy { width:290px;}
+ .type-page img { width:290px; height:inherit;}
+ 
+ #comment-form { width:285px; }

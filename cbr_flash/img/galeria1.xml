@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+<photo filename="galeria1/img_01.jpg" thumbnail="galeria1/thumbs/img_01.jpg" description="Image 1 of 22" />
+<photo filename="galeria1/img_02.jpg" thumbnail="galeria1/thumbs/img_02.jpg" description="Image 2 of 22" />
+<photo filename="galeria1/img_03.jpg" thumbnail="galeria1/thumbs/img_03.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_04.jpg" thumbnail="galeria1/thumbs/img_04.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_05.jpg" thumbnail="galeria1/thumbs/img_05.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_06.jpg" thumbnail="galeria1/thumbs/img_06.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_07.jpg" thumbnail="galeria1/thumbs/img_07.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_08.jpg" thumbnail="galeria1/thumbs/img_08.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_09.jpg" thumbnail="galeria1/thumbs/img_09.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_10.jpg" thumbnail="galeria1/thumbs/img_10.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_11.jpg" thumbnail="galeria1/thumbs/img_11.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_12.jpg" thumbnail="galeria1/thumbs/img_12.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_13.jpg" thumbnail="galeria1/thumbs/img_13.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_14.jpg" thumbnail="galeria1/thumbs/img_14.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_15.jpg" thumbnail="galeria1/thumbs/img_15.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_16.jpg" thumbnail="galeria1/thumbs/img_16.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_17.jpg" thumbnail="galeria1/thumbs/img_17.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_18.jpg" thumbnail="galeria1/thumbs/img_18.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_19.jpg" thumbnail="galeria1/thumbs/img_19.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_20.jpg" thumbnail="galeria1/thumbs/img_20.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_21.jpg" thumbnail="galeria1/thumbs/img_21.jpg" description="Image lorem ipsum" />
+<photo filename="galeria1/img_22.jpg" thumbnail="galeria1/thumbs/img_22.jpg" description="Image lorem ipsum" />
+</photos>

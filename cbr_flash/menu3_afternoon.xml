@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<menu>
+<name_menu>Menu 3. FULL AFTERNOON</name_menu><br />
+<course>
+<title>Starter</title>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque ligula at massa. Maecenas convallis. In hac habitasse platea dictumst. Nunc justo. Nam pulvinar sem cursus ante. Donec vehicula nibh quis ligula. Quisque nec quam. In hac habitasse platea dictumst. Fusce nisl diam, pharetra ut, posuere vehicula, pulvinar lobortis, odio. Sed dignissim vehicula nunc. 
+</course>
+<br />
+<course>
+<title>Main Course(Pasta)</title>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque ligula at massa. Maecenas convallis. In hac habitasse platea dictumst. Nunc justo. Nam pulvinar sem cursus ante. Donec vehicula nibh quis ligula. Quisque nec quam. In hac habitasse platea dictumst. Fusce nisl diam, pharetra ut, posuere vehicula, pulvinar lobortis, odio. Sed dignissim vehicula nunc.<br />
+
+<title>Or Main Course(Pizza)</title>
+<option>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque ligula at massa. Maecenas convallis. In hac habitasse platea dictumst. Nunc justo. Nam pulvinar sem cursus ante. Donec vehicula nibh quis ligula. Quisque nec quam. In hac habitasse platea dictumst. Fusce nisl diam, pharetra ut, posuere vehicula, pulvinar lobortis, odio. Sed dignissim vehicula nunc. </option><br />
+</course>
+<adds_on>AND A COMPLYMENTARY GLASS OF HOUSE WINE</adds_on><br />
+<time>EVERY DAY from 12:00 to 6:00 Pm</time><br />
+<price>€ 8.95</price>
+</menu>   
+
+
+<!-- 
+
+-->
+
+
+
+

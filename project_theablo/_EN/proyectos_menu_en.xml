@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+
+   <menu Name="Interior Design">
+	
+	<item Name="Restaurante Pasarela" Action ="content_mc" Target="pasarela"></item>	
+	<item Name="Kafé Kiosk" Action ="content_mc" Target="kafe_kiosk"></item>
+	<item Name="Showroom MBA" Action ="content_mc" Target="mba"></item>
+	<item Name="Geno Elegant" Action ="content_mc" Target="geno_elegant"></item>	
+	<item Name="Piadineria Pulcinella" Action ="content_mc" Target="pulcinella"></item>
+	<item Name="Stand Selvatgi 1" Action ="content_mc" Target="selvatgi_feb08_bread"></item>
+	<item Name="Tienda Selvatgi" Action ="content_mc" Target="selvatgi_dic06"></item>
+	<item Name="Stand Nsaio" Action ="content_mc" Target="nsaio"></item>
+	<item Name="Futurcret Microcemento" Action ="content_mc" Target="futurcret"></item>
+	<item Name="Stand Selvatgi 2" Action ="content_mc" Target="selvatgi_sep08"></item>
+	<item Name="Showroom Selvatgi" Action ="content_mc" Target="selvatgi2007"></item>
+	<item Name="Stand Selvatgi 3" Action ="content_mc" Target="selvatgi_feb07_sim"></item>
+    <item Name="Stand Selvatgi 4" Action ="content_mc" Target="selvatgi_sep06"></item>
+    <item Name="Stand Selvatgi 5" Action ="content_mc" Target="selvatgi_feb07"></item>
+    <item Name="Reforma vivienda" Action ="content_mc" Target="reforma_alicante"></item>
+    <item Name="Outleet Custo" Action ="content_mc" Target="custo_outlet"></item>
+    <item Name="Pasillos Hotel" Action ="content_mc" Target="pasillos_hotel"></item>
+    <item Name="Franquicia Selvatgi" Action ="content_mc" Target="selvatgi_nov08"></item>
+    <item Name="Reforma vivienda" Action ="content_mc" Target="reforma_en09"></item>
+    <item Name="Reforma loft" Action ="content_mc" Target="reforma_loft"></item>
+	<item Name="Oficinas CIDEU" Action ="content_mc" Target="cideu"></item> 
+	<item Name="Loft Las Moscas" Action ="content_mc" Target="moscas"></item>
+	<item Name="Nuevas Fachadas" Action ="content_mc" Target="fachadas"></item>
+	<item Name="Proyecto Spa" Action ="content_mc" Target="spa"></item>
+	<item Name="Proyecto Flowt" Action ="content_mc" Target="flowt"></item>
+	
+   </menu>
+
+   <menu Name="Graphic Design">
+      <item Name="Gallery" Action ="content_mc" Target="grafico"></item>
+   </menu>
+
+   <menu Name="Illustration">
+      <item Name="Gallery" Action ="content_mc" Target="ilustracion"></item>
+   </menu>
+   
+   <menu Name="3D infography">
+   	  <item Name="Gallery" Action ="content_mc" Target="infografia"></item>
+   </menu>
+
+   <menu Name="Photography">
+      <item Name="Felipe" Action ="content_mc" Target="felipe"></item>
+      <item Name="vicugo" Action ="content_mc" Target="victor"></item>
+   </menu>
+
+</content>
+

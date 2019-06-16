@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<menu>
+  <name_menu>Menu 4_FRIDAY &amp; SATURDAY</name_menu><br />
+  <course>
+    <title>Starter</title>
+    <b>Tomato Bruschetta</b> Or<br />
+	<b>Garlic Bread</b> Or<br />
+	<b>Mixed Salad</b> Or<br />
+	<b>Chips</b>
+  </course>
+<br />
+  <course>
+    <title>Main Course(Pasta)</title>
+		<option><b>Lasagna:</b> (Sheets of Pasta with Bolognese sauce and our home made Besciamelle)</option><br />
+		<option><b>Fettuccine Panna e Prosciutto:</b> (Fettuccine pasta whit cream and baked ham)</option><br />
+		<option><b>Spaghetti Carbonara:</b> (Spaghetti pasta with egg, Italian Bacon, Parmesan cheese and black pepper)</option><br />
+		<option><b>Rigatoni all’Amatriciana:</b> (Rigatoni pasta whit tomato sauce, Italian Bacon, Onions and Parmesan Cheese)</option><br />
+		<option><b>Penne all’Arrabiata:</b> (Penne Pasta with tomato sauce,garlic,olive oil and chilli)</option><br />
+		<option><b>Spaghetti al Pomodoro:</b> (Spaghetti Pasta with tomato sauce,Olive Oil and Basil)</option><br />
+	<title>Or Main Course(Pizza)</title>
+		<option><b>Marinara:</b> (Tomato,Oregano and Garlic)</option><br />
+		<option><b>Marinara:</b> (Tomato,Oregano and Garlic)</option><br />
+		<option><b>Margherita:</b> (Tomato,Mozzarella and Basil)</option><br />
+		<option><b>Diavola:</b> (Tomato,Mozzarella,Spicy Salami)</option><br />
+		<option><b>Cotto:</b> (Tomato,mozzarella,Baked Ham,Basil)</option><br />
+		<option><b>Funghi:</b> (Tomato,Mozarella,Mushrooms,Basil)</option><br />
+		<option><b>Ciao Roma:</b> (Tomato,Oregano,Anchovies,Cappers and Black Pepper)</option><br />
+  </course>
+	<adds_on>AND A COMPLYMENTARY GLASS OF HOUSE WINE</adds_on><br />
+	<time>EVERY DAY from 12:00 to 6:00 Pm</time><br />
+	<price>€ 8.95</price>
+</menu>   
+
+
+<!-- 
+
+
+2. Special weekend menu dalle 12 alle 6 sabato e domenica
+
+WEEKEND SPECIAL
+Starter
+
+Bruschetta Mista(Toasted homemade bread with various toppings,Olive Oil,Garlic and Black Pepper
+Or 
+Crostino al Prosciutto(Toasted homemade bread  with Mozzarella and Parma Ham)
+Or
+Zuppa di Cozze(Pan Fried mussels with garlic,parsley,black pepper and white wine)
+
+Main Course(Pasta)
+
+Penne Caprese
+(With fresh tomatoes,Basil and Mozzarelal Cheese)
+Tagliatelle Panna e Prosciutto:
+(Tagliatelle pasta whit cream and baked ham)
+Spaghetti Carbonara:
+(Spaghetti pasta with egg, Italian Bacon, Parmesan cheese and black pepper)
+Rigatoni alla Siciliana:
+(Rigatoni pasta whit Garlic,Olive Oil,Tomato Sauce,Fried Aubergines  topped with Parmesan cheese)
+Or
+Pizza
+Margherita:(Tomato,Mozzarella and Basil)
+Diavola:(Tomato,Mozzarella,Spicy Salami)
+Cotto:(Tomato,mozzarella,Baked Ham,Basil)
+Funghi:(Tomato,Mozarella,Mushrooms,Basil)
+Romana:(Tomato,Mozzarella,Anchovies,Basil)
+Or
+Bistecca alla Grigilia:(4 Oz. minute grilled steak)
+Pollo alla Milanese:(Tender Chicken breast dipped in egg,Bread crumb and pan fried)
+
+
+AND A COMPLYMENTARY GLASS OF HOUSE WINE
+Only Sat and Sun FROM 12:00 to 6:00 Pm
+€ 12.50
+
+  
+-->
+
+
+
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+maxImageWidth="400" maxImageHeight="400"
+textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="20"stagePadding="40" navPadding="40" thumbnailColumns="3" thumbnailRows="3" 
+navPosition="left" vAlign="center" hAlign="center" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath=""
+backgroundColor="#FFFFFF">
+
+<!--  	
+<image>
+<filename>wide.jpg</filename> 
+<caption><![CDATA[Captions can be HTML formatted. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>,
+<u><a href="http://www.google.com" target="_blank">hyperlinks</a></u>, linebreaks<br> and 
+<font color="#ffff00" size="30">font tags</font>.]]></caption>
+</image>
+-->
+
+<image><filename>01-wayu-skyline-1.jpg</filename><caption>Wayú skyline. Custo. Barcelona 08/07</caption></image>
+<image><filename>02-wayu-skyline-2.jpg</filename><caption>Wakú skyline2. Custo. Barcelona 08/07</caption></image>
+<image><filename>03-crossculturel1.jpg</filename><caption>Crossculturel. Portada Management Guide</caption></image>
+<image><filename>03-crossculturel2.jpg</filename><caption>Crossculturel. Portada Management Guide</caption></image>
+<image><filename>03-crossculturel3.jpg</filename><caption>Crossculturel. Portada Management Guide</caption></image>
+<image><filename>06-monotony.jpg</filename><caption></caption></image>
+<image><filename>07-noahos-wedding1.jpg</filename><caption>Noah's Wedding1. Custo Barcelona 03/07</caption></image>
+<image><filename>08-noahos-wedding2.jpg</filename><caption>Noah's Wedding2. Custo Barcelona 03/07</caption></image>
+<image><filename>09-noahos-wedding2b.jpg</filename><caption>Noah's Wedding3. Custo Barcelona 03/07</caption></image>
+<image><filename>10-noahos-wedding3.jpg</filename><caption>Noah's Wedding4. Custo Barcelona 03/07</caption></image>
+
+<image><filename>11-restaurante-pasarela1.jpg</filename><caption>Restaurante Pasarela, La Roca del Vallés 05/09</caption></image>
+<image><filename>12-restaurante-pasarela2.jpg</filename><caption>Restaurante Pasarela, La Roca del Vallés 05/09</caption></image>
+<image><filename>12-noahos-arc2.jpg</filename><caption>Noah's Arc2. Custo Barcelona 03/07</caption></image>
+<image><filename>13-furry-us.jpg</filename><caption>Furry-us. Custo Barcelona 03/07</caption></image>
+<image><filename>14-the-kiss.jpg</filename><caption>The Kiss. Custo Barcelona 03/07</caption></image>
+<image><filename>15-strippped.jpg</filename><caption>Stripped Cats. Custo Barcelona 03/07</caption></image>
+<image><filename>16-indietrunk.jpg</filename><caption>Indi trunk. Custo Barcelona 03/07</caption></image>
+<image><filename>17-pisonous-legs.jpg</filename><caption>Posionous legs. Custo Barcelona 03/07</caption></image>
+
+<image><filename>18-bar-havana1.jpg</filename><caption>Bar Havana Mojito, Barcelona 08/09</caption></image>
+<image><filename>18-bar-havana2.jpg</filename><caption>Bar Havana Mojito, Barcelona 08/09</caption></image>
+<image><filename>18-bar-havana3.jpg</filename><caption>Bar Havana Mojito, Barcelona 08/09</caption></image>
+<image><filename>19-hanex.jpg</filename><caption>Hanex, Beijing 09/09</caption></image>
+<!--  <image><filename>20-runaway-feathers.jpg</filename><caption>Runaway Feathers. Custo Barcelona 03/07</caption></image>-->
+<image><filename>21-pets-from-siam.jpg</filename><caption>Runaway Feathers. Custo Barcelona 03/07</caption></image>
+
+<image><filename>22-vintage-festival1.jpg</filename><caption>Vintage Festival, Londres 09/09</caption></image>
+<image><filename>22-vintage-festival2.jpg</filename><caption>Vintage Festival, Londres 09/09</caption></image>
+
+<image><filename>23-charileos-charleston.jpg</filename><caption>Chalie's Charlestone. Custo Barcelona 03/07</caption></image>
+<image><filename>24-summer.jpg</filename><caption>Summer. Selvatgi. Barcelona 04/08</caption></image>
+
+<!-- <image><filename>25-suspicious-minds.jpg</filename><caption>Suspicious minds</caption></image>-->
+<image><filename>26-quartieri1.jpg</filename><caption>Quartieri, Barcelona 08/09</caption</image>
+<image><filename>26-quartieri2.jpg</filename><caption>Quartieri, Barcelona 08/09</caption</image>
+
+<image><filename>27-ipanema-girl-y-the-king-in-vegas.jpg</filename><caption>Ipanema Girl / the King in Vegas. Custo Barcelona 11/07</caption></image>
+<image><filename>28-xochimilco.jpg</filename><caption>Xoxhimilco. Custo Barcelona 11/07</caption></image>
+<image><filename>29-god-help-the-queen.jpg</filename><caption></caption></image>
+<image><filename>30-very-hot-pulp-fiction.jpg</filename><caption>Very Hot Pulp Fiction. Trafalmadore. Alicante, 7/08</caption></image>
+<image><filename>31-blond-invasion.jpg</filename><caption>Blond Invasion. Custo Barcelona 2/08</caption></image>
+<image><filename>32-light-m-fire.jpg</filename><caption>Light My Fire. Custo Barcelona 2/08</caption></image>
+<image><filename>33-soaked-opera-y-biking-vinking.jpg</filename><caption>Soaked Opera / Biking Viking. Custo Barcelona 2/08</caption></image>
+<image><filename>34-wango-tango.jpg</filename><caption>Wango Tango. Custo Barcelona 2/08</caption></image>
+
+<!-- <image><filename>35-wango-tango.jpg</filename><caption>Wango Tango. Custo Barcelona 2/087</caption></image>-->
+
+<image><filename>36-cartel-my-esade.jpg</filename><caption></caption></image>
+<image><filename>37-cartel-esade-shop1.jpg</filename><caption></caption></image>
+<image><filename>38-cartel-esade-shop2.jpg</filename><caption></caption></image>
+<!-- <image><filename>39-cartel-esade-shop3.jpg</filename><caption></caption></image>-->
+
+<image><filename>40-my-cherry-pie.jpg</filename><caption>My cherry pie</caption></image>
+
+<!--17. Siam. Custo Barcelona 03/07 
+27. Living on the Edge. Custo Barcelona 2/08 -->
+
+</simpleviewergallery>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<menu>
+<name_menu>Menu 5_CHRISTMAS MENU</name_menu><br />
+<course>
+<title>Starter (Choice of):</title>
+<b>Carpaccio di manzo con rughetta:</b> Carpaccio of beef, marinated with olive oil, lemon juice and black pepper, served on a bed of rocket salad with parmesan shavings.<br />
+<b>Insalata di Mare:</b>Mixed vegetables, backed gratin.<br />
+</course>
+<br />
+<course>
+<title>Main Course(Choice of):</title>
+<option><b>Millefoglie di vegetali:</b> Millefeuille of vegetables. Layers of fresh home made pasta to alternate with slices of fried aubergines and courgettes with béchamel cream and parmesan cheese</option><br />
+<option><b>Paccheri ai frutti di mare:</b> Paccheri pasta with sea food(clams, mussels, squid, whole prawns), garlic, olive oil, white wine and cherry tomatoes.</option><br />
+<option><b>Ravioli burro e salvia:</b> Ravioli pasta with butter and sage. Fresh pasta filled with meat and mortadella, sautéed in a pan with butter and sage and served with plenty of parmesan cheese.</option><br />
+
+<title>Second Course(Choice of):</title>
+<option><b>Agnello al forno con patate:</b> Lamb shoulder with backed potatoes, onion, rosemary, black pepper, olive oil and white wine.</option><br />
+<option><b>Calamari ripieni:</b> Squid stuffed with chopped tentacles, garlic, olive oil, black olives, bread crumbs, anchovies and parsley, black pepper, pecorino romano and white wine.</option><br />
+<option><b>Petto di anatra al peppe verde:</b> Sauteed duck breast with green peppercorn, shallot and butter, served on a bed of peppers.</option><br />
+</course>
+<course>
+<title>Desserts</title>
+<b>Macedonia di Frutta:</b> Fresh fruit salad sprinkled with lemon and sugar.<br />
+<b>Tiramisu</b><br />
+<price>€ 37.00</price>
+</menu>   
+
+
+<!-- 
+
+  
+-->
+
+
+
+

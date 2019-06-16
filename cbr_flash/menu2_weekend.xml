@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<menu>
+  <name_menu>Menu 2. WEEKEND SPECIAL</name_menu><br />
+  <course>
+    <title>Starter</title>
+    <b>Bruschetta Mista:</b> (Toasted homemade bread with various toppings,Olive Oil,Garlic and Black Pepper) Or<br />
+	<b>Crostino al Prosciutto:</b> (Toasted homemade bread  with Mozzarella and Parma Ham) Or<br />
+	<b>Zuppa di Cozze</b> (Pan Fried mussels with garlic,parsley,black pepper and white wine)<br />
+  </course>
+<br />
+  <course>
+    <title>Main Course(Pasta)</title>
+		<option><b>Penne Caprese:</b> (With fresh tomatoes,Basil and Mozzarelal Cheese)</option><br />
+		<option><b>Tagliatelle Panna e Prosciutto:</b> (Tagliatelle pasta whit cream and baked ham)</option><br />
+		<option><b>Spaghetti Carbonara:</b> (Spaghetti pasta with egg, Italian Bacon, Parmesan cheese and black pepper)</option><br />
+		<option><b>Rigatoni alla Siciliana:</b> (Rigatoni pasta whit Garlic,Olive Oil,Tomato Sauce,Fried Aubergines  topped with Parmesan cheese)</option><br />
+
+	<title>Or Main Course(Pizza)</title>
+		<option><b>Marinara:</b> (Tomato,Oregano and Garlic)</option><br />
+		<option><b>Margherita:</b> (Tomato,Mozzarella and Basil)</option><br />
+		<option><b>Diavola:</b> (Tomato,Mozzarella,Spicy Salami)</option><br />
+		<option><b>Cotto:</b> (Tomato,mozzarella,Baked Ham,Basil)</option><br />
+		<option><b>Funghi:</b> (Tomato,Mozarella,Mushrooms,Basil)</option><br />
+		<option><b>Romana:</b> (Tomato,Mozzarella,Anchovies,Basil)</option><br />
+	<title>Or Main Course</title>
+		<option><b>Bistecca alla Grigilia:</b> (4 Oz. minute grilled steak)</option><br />
+		<option><b>Pollo alla Milanese:</b> (Tender Chicken breast dipped in egg,Bread crumb and pan fried)</option><br />
+  </course>
+	<adds_on>AND A COMPLYMENTARY GLASS OF HOUSE WINE</adds_on><br />
+	<time>Only Sat and Sun FROM 12:00 to 6:00 Pm</time><br />
+	<price>€ 12.50</price>
+</menu>   
+
+
+<!-- 
+
+-->
+
+
+
+

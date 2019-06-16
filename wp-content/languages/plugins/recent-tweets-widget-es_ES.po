@@ -1,0 +1,156 @@
+# Translation of Plugins - Recent Tweets Widget - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Recent Tweets Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-01 10:56:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Recent Tweets Widget - Stable (latest release)\n"
+
+#: widget.php:166
+msgid "Twitter Username:"
+msgstr "Nombre de usuario en Twitter:"
+
+#: settings.php:21
+msgid "Adding the Widget"
+msgstr "Añadiendo el widget"
+
+#: widget.php:168
+msgid "Tweets to display:"
+msgstr "Tweets a mostrar:"
+
+#: settings.php:48
+msgid "Type Your Email Address"
+msgstr "Escribe tu dirección de correo electrónico "
+
+#: widget.php:26
+msgid "Please fill all widget settings!"
+msgstr "¡Por favor rellena todos los ajustes del widget!"
+
+#: settings.php:25
+msgid "Fill all your widget settings."
+msgstr "Rellena todos los ajustes del widget."
+
+#: widget.php:115
+msgid "<b>Error!</b> Couldn't retrieve tweets for some reason!"
+msgstr "<b>¡Error!</b> ¡Por alguna razón, no se han podido recuperar los tweets!"
+
+#: settings.php:26
+msgid "Enjoy your new Twitter feed! :)"
+msgstr "¡Disfruta tu nuevo feed de Twitter! :)"
+
+#. Plugin Name of the plugin/theme
+msgid "Recent Tweets Widget"
+msgstr "Recent Tweets Widget"
+
+#: widget.php:244
+msgid "over a year ago"
+msgstr "Hace más de un año"
+
+#: widget.php:242
+msgid " days ago"
+msgstr "Hace dias"
+
+#: widget.php:240
+msgid "yesterday"
+msgstr "ayer"
+
+#: widget.php:238
+msgid " hours ago"
+msgstr "hace horas"
+
+#: widget.php:236
+msgid "about 1 hour ago"
+msgstr "hace 1 hora"
+
+#: widget.php:232
+msgid "about 1 minute ago"
+msgstr "hace alrededor de 1 minuto"
+
+#: widget.php:228
+msgid "right now"
+msgstr "ahora mismo"
+
+#: widget.php:176
+msgid "Exclude replies:"
+msgstr "Respuestas excluídas:"
+
+#: widget.php:154
+msgid "Title:"
+msgstr "Título:"
+
+#: widget.php:39
+msgid "Couldn't find twitteroauth.php!"
+msgstr "¡No se pudo encontrar twitteroauth.php!"
+
+#: widget.php:10
+msgid "Display recent tweets"
+msgstr "Mostrar tweets recientes"
+
+#. Author URI of the plugin/theme
+msgid "http://sumome.com"
+msgstr "http://sumome.com"
+
+#. Author of the plugin/theme
+msgid "Noah Kagan"
+msgstr "Noah Kagan"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/recent-tweets-widget/"
+msgstr "https://es.wordpress.org/extend/plugins/recent-tweets-widget/"
+
+#. Description of the plugin/theme
+msgid "Recent Tweets Widget plugin for Twitter API v1.1 with Cache. It uses the new Twitter API v1.1 and stores tweets in the cache. It means that it will read status messages from your database and it doesn't query Twitter.com for every page load so you won't be rate limited. You can set how often you want to update the cache."
+msgstr "El plugin Recent Tweets Widget para la API de Twitter v1.1 con caché. Utiliza la nueva API de Twitter v1.1 y almacena los tuits en la caché. Esto significa que leerá el estado de las entradas de tu base de datos y no consultará a Twitter.com por cada página cargada, por lo que no estarás limitado en cuanto a tarifas. Puedes establecer la frecuencia con la que deseas actualizar la caché."
+
+#: widget.php:234
+msgid " minutes ago"
+msgstr "minutos antes"
+
+#: widget.php:230
+msgid " seconds ago"
+msgstr "segundos antes"
+
+#: widget.php:164
+msgid "Cache Tweets in every:"
+msgstr "Cachear tuits cada:"
+
+#: widget.php:158
+msgid "Consumer Secret:"
+msgstr "Consumer Secret:"
+
+#: widget.php:156
+msgid "Consumer Key:"
+msgstr "Consumer Key:"
+
+#: widget.php:162
+msgid "Access Token Secret:"
+msgstr "Access Token Secret:"
+
+#: widget.php:160
+msgid "Access Token:"
+msgstr "Access Token:"
+
+#: widget.php:55
+msgid "You'll need to regenerate it <a href=\"https://apps.twitter.com/\" target=\"_blank\">here</a>!"
+msgstr "Tendrás que regenerarla <a href=\"https://apps.twitter.com/\" target=\"_blank\">aquí</a>!"
+
+#: settings.php:51
+msgid "Let me in!"
+msgstr "¡Déjame entrar!"
+
+#: settings.php:45
+msgid "Signup for a free 30 day course to DOUBLE YOUR EMAIL LIST"
+msgstr "Regístrate en un curso gratuito de 30 días para DOBLAR TU LISTA DE CORREO"
+
+#: settings.php:37
+msgid "Show our link below the widget. Pretty please."
+msgstr "Muestra nuestro enlace bajo el widget. Por favor."
+
+#: recent-tweets.php:87 settings.php:16
+msgid "Looking for more sharing tools?"
+msgstr "¿Estás buscando más herramientas para compartir?"

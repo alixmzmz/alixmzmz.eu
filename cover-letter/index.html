@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+	<title>Alix Martínez : Cover Letter</title>
+	<link rel='icon' type='image/x-icon' href='http://www.alixmzmz.eu/favicon.ico'>
+
+	<link rel="stylesheet" href="css/custom.css" />  
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>	
+	<script src="js/vendor/custom.modernizr.js"></script>
+	<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>  
+	
+	<meta name="robots" content="noodp,noydir"/>
+	<link rel="canonical" href="http://www.alixmzmz.eu/" />
+	<meta property='og:locale' content='en_US'/>
+	<meta property='og:type' content='website'/>
+	<meta property='og:title' content='I&#039;m Alix Martínez - A Visual Designer living in London.'/>
+	<meta property='og:url' content='http://www.alixmzmz.eu/'/>
+	<meta property='og:site_name' content='I&#039;m Alix Martínez'/>
+
+</head>
+<body>
+	<div class="fixed">
+            <div class="block color-one"></div>
+    </div>
+	<div class="row" id="main">
+			<h1>ALOHA!</h1>
+<h2>WHAT'S GOING ON?</h2>
+<br/><p>My name is <a href="http://www.linkedin.com/pub/alix-mart%C3%ADnez/19/37b/600" target="_blank">Alix Martínez</a> and I am currently working at <a href="http://www.fjordnet.com/" target="_blank">Fjord</a>. Since I joined last May, I have been involved in different accounts such as: two financial services clients from UK and South Africa, a multinational consumer goods company, as well as various pitches for new businesses.</p>
+<br/><p>Originally from A Coruña (Spain) I have been based in various Spanish cities, as well as other European countries such as Germany, Italy and Ireland.</p>
+<br/><p>Prior to Fjord I delivered creative solutions for different brands such as Bwin.party Digital Entertainment. I was also part of the UX Team at Riplife Gaming Technologies delivering software services to Bodog Group brands. In Barcelona I developed my career at Aedgency as Visual Designer on the Marketing department and worked as the Deenero Lead Visual Designer (a cashback product).</p>
+<br/><p>Previous experience helped develop my visual style whilst being Interactive producer at Gravitate in Dublin, Graphic Designer in various studios including Agrafojo+Asocs, D!mpresion in A Coruña, Visual Designer at Undergraphic an Advertising agency at sunny Cagliari (Italy) and Lead Illustrator in a regional brunch for the Spanish national publishing company Rodeira-Edebe.</p>
+<br/><p><a href="http://www.youtube.com/watch?v=F7jSp2xmmEE" target="_blank"> Right here, right now</a> my portfolio is not updated with the latest projects I've been working on. So, would be nice to meet you, grab a coffee and go through them with you. How does it sounds?</p>
+<br/><p>I am looking forward to hearing from you.</p>
+<br/><p>Best, </p>
+<br/><h3>Alix Martínez</h3>
+	</div>
+
+		<div id="progress">
+    	<div id="bar"></div>
+	</div>
+	<div id="buttons">
+    	<a class="btn-info" id="gotocv" href="http://www.alixmzmz.eu/alixmzmz-cv.pdf">My <b>CV</b></a>	
+		<a class="btn-info" id="gotoportfolio" href="http://www.alixmzmz.eu/latest-work/">My latest <b>work</b></a>
+		<a class="btn-info" id="gotoportfolio" href="http://www.alixmzmz.eu">My old <b>portofolio</b> site</a>
+	</div>
+  <script>
+	
+	$(window).scroll(function() {
+
+	    var h = $(document).height(),
+	    	s = $(window).scrollTop(),
+	    	w = $(window).height(),
+	    
+	    	t = (s / h) * w,
+	    
+	    	p = Math.ceil((s + t) / h * 100),
+	    	y = (s + w);
+	    if (y == h)
+	    	p = 100;
+
+	    if (p > 80)
+	    	$('#buttons').show('fast');
+	    else
+	    	$('#buttons').hide('fast');
+	    
+	    $('#bar').width(p + '%');
+
+	});
+
+  </script>
+</body>
+</html>

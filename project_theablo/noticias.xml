@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<text>
+<title>News 1</title>
+<content>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean scelerisque, odio quis sodales congue, urna dolor aliquet pede, vel luctus arcu quam quis nulla. Sed eget pede. Cras massa. Proin quis est. Sed vitae tellus. Suspendisse justo. Donec fermentum. Praesent aliquet pulvinar lacus. Nullam vehicula luctus ante.
+</content>
+<br />
+<title>News 2 </title>
+<description>
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec tincidunt mollis arcu. Aliquam erat volutpat. Nulla facilisi. Quisque sed est. Sed viverra ultricies urna.
+</description>
+<br />
+<title>News 3</title>
+<content>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean scelerisque, odio quis sodales congue, urna dolor aliquet pede, vel luctus arcu quam quis nulla. Sed eget pede. Cras massa. Proin quis est. Sed vitae tellus. Suspendisse justo. Donec fermentum. Praesent aliquet pulvinar lacus. Nullam vehicula luctus ante.
+</content>
+
+</text>
+
+<!--
+<data>
+<title name="Anastasio">
+<comments>This is a nice guy</comments>
+<image>an2.jpg</image>
+</title>
+<title name="Anastasio's car">
+<comments>Anastasio loves his car</comments>
+<image>an1.jpg</image>
+</title>
+</data>
+-->

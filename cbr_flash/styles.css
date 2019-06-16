@@ -1,0 +1,52 @@
+text {
+  color: #333333;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+name_menu{
+   color: #666600;
+   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   font-weight: bold;
+}
+
+
+title {
+   color: #990000;
+   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+price {
+   color: #990000;
+   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+
+
+
+/*
+adds_on
+time
+
+
+
+add_ons, hour {
+   color: #CC0099;
+   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+price{
+   color: #99FF00;
+   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 23px;
+   font-weight: bold;
+}
+*/
+

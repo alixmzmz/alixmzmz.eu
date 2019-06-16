@@ -1,0 +1,242 @@
+h1,h2,h3,h4,h5,h6 { font-family: "Lato"; }
+
+body,p { font-family: 'Merriweather', 'Helvetica Neue',Arial, Helvetica Neue, sans-serif; }
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html,
+body {
+  font-size: 100%; }
+
+body {
+  background: #F2F1F1;
+  color: #20232b;
+  padding: 0;
+  margin: 0;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: default; }
+
+a {
+  background:#CBFF00;
+  text-decoration:none;
+}
+
+a:hover {
+  cursor: pointer;
+  text-decoration:underline;
+  }
+
+a:focus {
+  outline: none; }
+
+    h1, h2 {
+      line-height:1em;
+      text-transform: uppercase;
+    }
+
+  h1 {
+    color:#141315;
+    font-size: 72px;
+    line-height: 87px;
+    font-weight:300;
+    letter-spacing:0;
+    margin-bottom: 0.4em;
+  }
+
+    h2 {
+      font-size: 20px;
+      font-weight:300;
+      line-height: 30px;
+      padding: 15px 10px 10px 15px;
+      color: white;
+      width:100%;
+      margin:0;
+      position:absolute;
+      bottom:0;
+      z-index:9999;
+    }
+
+  h3 {
+    font-family: "Merriweather";
+  }
+img {
+  -ms-interpolation-mode: bicubic; }
+
+div { top:0; }
+
+.left {
+  float: left !important; }
+
+.right {
+  float: right !important; }
+
+.row {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 62.5em;
+  *zoom: 1; }
+
+p {
+  margin-bottom:1.2em;
+  font-size:16px;
+  line-height:24px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+html, body {
+    margin:0;
+    padding:0;
+    height:2650px;
+}
+html, body,
+#progress,
+#projects {
+  min-width:900px;
+  min-height: 800px;
+}
+
+#progress {
+    position:fixed;
+    height:100%;
+    width:100%;
+    top:0;
+    z-index:-1;
+}
+
+#main {
+    padding:40px 0;
+    z-index:999999;
+}
+
+#bar {
+    width:0%;
+    height:100%;
+    position:relative;
+    background:#ddd url(../img/thankYou.svg) no-repeat 50% 96%;
+    background-size: 650px;
+    opacity:1;
+    -webkit-transition:width 0.3s;
+    -moz-transition:width 0.3s;
+    -o-transition:width 0.3s;
+    -ms-transition:width 0.3s;
+    transition:width 0.3s;
+}
+
+article a p {
+  color: #10131a;
+}
+
+article a:hover {
+  color: #10131a;
+  text-decoration: none;
+}
+
+article a:hover .overlay {
+  background-color: rgba(0,0,0,0.7);
+}
+
+  .block {
+      width:100%;
+      height:10px;
+      float:left;
+      z-index:9999;
+    }
+
+    .fixed {
+      position:fixed;
+      width:100%;
+    }
+  .color-one { background:#10131a; }
+
+  #projects {
+    display:none;
+    position: fixed;
+    top: 40px;
+  }
+
+  .pure-g{
+    float:left;
+    width:100%;
+    padding: 0.4em 6em;
+  }
+
+  #btns {
+    float: left;
+    height: 65px;
+    left: 50%;
+    margin-left: -450px;
+    position: fixed;
+    top: 74%;
+    width: 900px;
+  }
+
+  .btn-info {
+    text-shadow:none;
+    border:none;
+    padding:20px 10px;
+    float:left;
+    font-weight:300;
+    font-family: "Lato";
+    width:284px;
+    margin:0 6px;
+    text-align:center;
+    font-size:1.4em;
+    color:white;
+    z-index:999999;
+    text-transform: uppercase;
+  }
+  .btn-info {
+    background: transparent;
+    border: 6px solid #000;
+    color: #000;
+  }
+  .btn-info:hover {
+    background:#CBFF00;
+    border: 6px solid #CBFF00;
+    color:#10131a;
+    opacity:1;
+  }
+
+  .project {
+    padding: 0 1em;
+  }
+
+  .article-image {
+    position: relative;
+    overflow: hidden;
+    height: 180px;
+    max-height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .overlay {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    -webkit-transition: background-color 300ms;
+    transition: background-color 300ms;
+    background: rgba(65,74,82,0.6) url(../img/arrow-right.svg) no-repeat 50% 50%;
+    background-size: 12.5%;
+    z-index:999;
+  }
+
+  figure {
+    margin: 0 auto;
+  }
